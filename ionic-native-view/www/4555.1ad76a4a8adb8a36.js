@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([[4555],{4555:(t,_,e)=>{e.r(_),e.d(_,{NativeViewWeb:()=>i});var s=e(5861),n=e(4735);class i extends n.Uw{echo(a){return(0,s.Z)(function*(){return console.log("ECHO",a),a})()}}}}]);
